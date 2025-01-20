@@ -66,7 +66,24 @@ This repository contains Algorithms And Data Structures Task.
 ماهر علاء الدين قره فلاح 7093
 عبدالرحمن علي بيرقدار 6675
 عبدالله محمد غندور 6210
+### Real Input
+الملف المرفق email core هو دخل حقيقي موجود في البرنامج الرئيسي قم بتنزيل هذا الملف و اتبع التعليمات الموجودة في البرنامج الرئيسي
+علما انه لم يتم وضع صورة للخرج نظرا لان البيان كبير للغاية ويحتاج الى اسطر خرج كثيرة والكود يعمل بكفائة عالية
 
+```
+graph* g = new graph(1005,<"put dataSet file path here>");
+
+verteses_state* v = new verteses_state(g->graphSize);
+
+g->displayAdjacencyList();
+
+DFS_List(1, *g, *v); //choose any number between 1 and 1005
+
+v->display_versteses_states();
+v->display_versteses_dfsnum();
+v->display_versteses_fnum();
+v->init(*g);
+```
 ## Code Snippets
 
 > ### Graph Represent
