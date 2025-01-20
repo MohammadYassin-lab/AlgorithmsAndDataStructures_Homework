@@ -12,6 +12,7 @@ This repository contains Algorithms And Data Structures Task.
 - [**Algorithms And DataStructer Task**](#algorithms-and-datastructer-task)
   - [Contents](#contents)
   - [INFO](#info)
+  - [Real Input](#real-input)
   - [Code Snippets](#code-snippets)
       - [Adjacencey Matrix](#adjacencey-matrix)
       - [Adjacencey List](#adjacencey-list)
@@ -70,7 +71,7 @@ This repository contains Algorithms And Data Structures Task.
 الملف المرفق email core هو دخل حقيقي موجود في البرنامج الرئيسي قم بتنزيل هذا الملف و اتبع التعليمات الموجودة في البرنامج الرئيسي
 علما انه لم يتم وضع صورة للخرج نظرا لان البيان كبير للغاية ويحتاج الى اسطر خرج كثيرة والكود يعمل بكفائة
 
-```
+```cpp
 graph* g = new graph(1005,<"put dataSet file path here>");
 
 verteses_state* v = new verteses_state(g->graphSize);
