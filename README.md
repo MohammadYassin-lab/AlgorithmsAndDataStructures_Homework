@@ -48,25 +48,14 @@ This repository contains Algorithms And Data Structures Task.
 - **SuperVisor**
   - Dr. Raed Aljaberi
 - **Students**
-  - Mohammed Maher Nahhas 7178 (Group manager)
-  - Mohammed Anas Yassen 6800
-  - Mohammed Marwan Hasan 6760
-  - Mohammed Nael Hasan 7258
-  - Modar Ammar Othman 6884
-  - Maher Alaa Alden Qrh Flah 7093
-  - Abdullrahman Ali birqdar 6675
-  - Abduallah Mohammed Ghandoor 6210
+  - Mohammad Maher Nahhas 7178
+  - Mohammad Anas Yassen 6800
 
 > ---
 
-محمد ماهر نحاس 7178( مشرف المجموعة )
+محمد ماهر نحاس 7178
 محمد انس ياسين 6800
-محمد مروان حسن 6760
-محمد نائل حسن 7258
-مضر عمار عثمان 6884
-ماهر علاء الدين قره فلاح 7093
-عبدالرحمن علي بيرقدار 6675
-عبدالله محمد غندور 6210
+
 ## Real Input
 الملف المرفق email core هو دخل حقيقي موجود في البرنامج الرئيسي قم بتنزيل هذا الملف و اتبع التعليمات الموجودة في البرنامج الرئيسي
 علما انه لم يتم وضع صورة للخرج نظرا لان البيان كبير للغاية ويحتاج الى اسطر خرج كثيرة والكود يعمل بكفائة
