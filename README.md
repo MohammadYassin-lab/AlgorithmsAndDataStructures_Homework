@@ -1,4 +1,4 @@
-# **Algorithms And DataStructer Task**
+# **Algorithms And DataStructers Task**
 
 Syria-LattakiaUniversity-ComputerScience-ThirdYear-FirstSemester-2025. 
 This repository contains Algorithms And Data Structures Task. 
