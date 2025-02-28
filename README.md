@@ -49,7 +49,7 @@ This repository contains Algorithms And Data Structures Task.
   - Dr. Raed Aljaberi
 - **Students**
   - Mohammad Maher Nahhas 7178
-  - Mohammad Anas Yassen 6800
+  - Mohammad Anas Yassin 6800
 
 > ---
 
